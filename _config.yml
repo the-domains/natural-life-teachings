@@ -1,4 +1,3 @@
-layout_spectrum: 0.8620701557956636
 typography_spectrum: 0.13050911063328385
 color:
   brandStrength: 0.3040422524791211
@@ -11,4 +10,7 @@ color:
     - '#E37D0E'
     - '#B6C219'
     - '#78C495'
+layout_spectrum: 0.8620701557956636
 name: Natural Life Teachings
+title: |
+  EiB
