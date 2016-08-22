@@ -1,3 +1,4 @@
+layout_spectrum: 0.8620701557956636
 typography_spectrum: 0.13050911063328385
 color:
   brandStrength: 0.3040422524791211
@@ -5,14 +6,9 @@ color:
   saturation: 0.4923559739254415
   rhythmicContrast: 0.3654134930111468
   brandColors:
-    - '#FAEDC1'
-    - '#7A0C00'
-    - '#E37D0E'
-    - '#B6C219'
-    - '#78C495'
-layout_spectrum: 0.8620701557956636
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
 name: Natural Life Teachings
-title: |
-  EiB
-description: |
-  Freiheit
